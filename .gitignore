@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.pyc
+
+allure-results/
+allure_report/
+logs/
+
+chrome_whatsapp_profile/
+whatsapp_session/
+
+.env
